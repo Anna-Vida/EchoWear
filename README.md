@@ -24,7 +24,7 @@ The system is designed around two communication directions:
 2. **Speech → Text** — the mobile application also provides speech-recognition functionality so spoken input can be converted into text for the user.
 
 <p align="center">
-  <img src="assets/glove.png" alt="EchoWear glove" width="250" />
+  <img src="echowear prototype.png" alt="EchoWear wearable glove prototype" width="320" />
 </p>
 
 ---
@@ -319,17 +319,27 @@ Key files:
 
 ---
 
-## Application Screens
+## Prototype & Application Screens
 
-The repository currently contains the application assets used in the interface. Additional real-device screenshots and prototype photographs are being prepared for this README.
+### Wearable prototype
 
-### Connected glove state
+<p align="center">
+  <img src="echowear prototype.png" alt="EchoWear wearable glove prototype" width="320" />
+</p>
 
-The UI shows the EchoWear Glove connection status and exposes the FSL-to-Speech and Speech-to-Text communication areas.
+The physical prototype integrates the glove, flex sensors, motion sensing, controller, wiring, and the BLE link used to send live sensor readings to the mobile application.
 
-### Demo / testing state
+### Mobile application
 
-The application also supports a demo-oriented interface used while testing the mobile experience independently of the live glove connection.
+<p align="center">
+  <img src="echowear 3.jpg" alt="EchoWear demo mode" width="260" />
+  &nbsp;&nbsp;
+  <img src="echowear 2.jpg" alt="EchoWear connected glove state" width="260" />
+  &nbsp;&nbsp;
+  <img src="echowear 1.jpg" alt="EchoWear FSL alphabet recognition" width="260" />
+</p>
+
+The screenshots show the application in demo mode, a live connected-glove state, and FSL recognition output. The interface combines **FSL to Speech** with **Speech to Text** so the glove and mobile app can support two-way communication.
 
 ---
 
