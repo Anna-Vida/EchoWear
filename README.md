@@ -29,11 +29,13 @@ The system is designed around two communication directions:
 
 ---
 
-## What I worked on
+## My Contribution
 
 This repository represents a **team project with multiple contributors**. The Git history and GitHub contributor list should be used for the complete collaboration record.
 
 ### Anna Patricia Vida — hardware, data, ML integration, and app connectivity
+
+**Role: Hardware, Machine Learning Integration & Mobile Connectivity Contributor**
 
 My work on EchoWear included:
 
